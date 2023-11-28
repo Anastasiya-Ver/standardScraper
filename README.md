@@ -4,7 +4,7 @@ One of the most important tenants in jazz is to listen, listen, listen.  The bes
 
 Albums and discographies are great for listening to a specific musician or genre, but the main issue lies in "horizontal" listening.  Say I want to learn a new standard, "Black Coffee", and want to hear some different renditions of that famous song.  Searching "Black Coffee" on Spotify or Youtube will give me a lot of people playing a song named Black Coffee, any song with that common name, not necessarily the standard.  And even if you do get the standard to pop up, they're all recent recordings, good luck finding anything before 2010.
 
-This project is borne out of my desire to just have an easy way to listen to a lot of covers of one song, and especially older versions.  I wanted a way to just plug in one song and instantly have easy access to as many renditions as I can handle.  This project is taking steps towards that goal, and in some ways is already there.
+This project is born out of my desire to just have an easy way to listen to a lot of covers of one song, and especially older versions.  I wanted a way to just plug in one song and instantly have easy access to as many renditions as I can handle.  This project is taking steps towards that goal, and in some ways is already there.
 
 Installation
 -------------------------------------------------------------------------------------------------------
@@ -30,7 +30,7 @@ Planned Developments
     This program generally chooses the correct song to download from, but not always ("Out of Nowhere" is broken).  This is because it always chooses the first result   that comes up from searching your query.  Before selecting quantity, should have a "does this look right" with title, original composer, and date of release.
 - Add album release date to metadata
 - Figure out a better way to do track titles
-- Queue system for mass-downloading standards.  There's only about 50 commonly heard standards and maybe a total of 150 you'll ever hear, so queuing a list of standards to download in the program's downtime will help with speed and manage strain better.  Would be user provided or taken from online lists.
+- Queue system for mass-downloading standards.  There's only like 100 commonly heard standards and maybe a total of maybe 400, 500 you'll ever hear, so queuing a list of standards to download in the program's downtime will help with speed and manage strain better.  Would be user provided or taken from online lists.
 
 Far Far Future Developments
 -----------------------------------------------------------------------------------------
